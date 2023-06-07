@@ -22,7 +22,7 @@ class home extends StatelessWidget {
         ),
       backgroundColor: Colors.deepPurple,
       floatingActionButton: FloatingActionButton(
-        onPressed:() {print('u nigga');},
+        onPressed:() {print('hello');},
         child: Text('+'),
       ),
     ) ;
